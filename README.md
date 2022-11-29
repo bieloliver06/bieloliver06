@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello there 👋
+```c#
+namespace AboutMe
+{
+    class Program
+    {
+        struct Person
+        {
+            public string name;
+            public string location;
+            public string[] spoken_languages;
+            public string[] programming_languages;
+        }
+        static void Main(string[] args)
+        {
+            Person myself = new Person();
+            myself.name = "Biel Oliver";
+            myself.location = "Mallorca";
+            myself.spoken_languages = new string[] { "english", "spanish", "catalan" };
+            myself.programming_languages = new string[] { "c#", "python", "javascript" };
+            Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
+        }
+    }
+}
+```
 
-<!--
-**bieloliver06/bieloliver06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notbtc2&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbtc2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
