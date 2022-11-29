@@ -24,5 +24,5 @@ namespace AboutMe
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notbtc2&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notbtc2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bieloliver06&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bieloliver06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
